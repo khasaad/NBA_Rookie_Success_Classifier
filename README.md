@@ -67,7 +67,7 @@ The project aims to develop a classifier capable of predicting whether an NBA ro
 The project is divided into four main parts:  
 
 1. **Folder `Classifier_evaluator`**  
-   - File **`classifier.py`**: Refactored version of `test.py` using object-oriented programming (OOP) for flexible use with Jupyter Notebook. This file contains essential functions to read, preprocess data, and train models.  
+   - File **`classifier.py`**: This file contains essential functions to read, preprocess data, and train models.  
 
 2. **File `nba_logreg.ipynb`**  
    - *Data Exploration and Preparation*: Python libraries were used to explore and prepare the data. Visualizations were generated for better understanding.  
