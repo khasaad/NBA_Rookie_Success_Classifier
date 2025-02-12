@@ -1,7 +1,7 @@
 import numpy as np
 from sklearn.model_selection import KFold
 from sklearn.metrics import confusion_matrix
-from sklearn.metrics import recall_score, accuracy_score, precision_score, f1_score
+from sklearn.metrics import recall_score, f1_score, accuracy_score, precision_score
 
 
 class ScoreClassifier:
